@@ -1,10 +1,9 @@
 # Prompt Systems — Templates, Patterns, Evals
 
-I build AI features with reliability: schema-constrained outputs, reusable instructions, and guardrails.
+Reusable prompt assets for reliable AI features.
 
 ## What’s inside
 - **Templates**: system/task prompts with variables
-- **Patterns**: RTFC (Role → Task → Format → Constraints) patterns
+- **Patterns**: RTFC (Role → Task → Format → Constraints)
 - **Evals**: rubrics + self-consistency checks
-- **Examples**: production-flavored prompt assets
-
+- **Examples**: production-style prompts (travel, RLS, proposals)
